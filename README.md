@@ -5,10 +5,17 @@ This project aims to use network motifs (small but recurring patterns in network
 
 ## File and Folder Description
 **diesel_lung_cancer**: Motif analysis of the diesel lung cancer citation network, which is a biased citation network (Duyx et al., 2020).
+- network_from_data.R: generate the diesel lung cancer citation network object from the raw data.
+- network_sim_functions.R: customized functions for network motif analysis, in particular, the function that generate the network null model for statistical testing.
+- diesel_lung_cancer_motif_analysis.R: carry out the motif analysis on the diesel lung cancer citation network. 
 
 **hygiene_hypothesis**: Motif analysis of the hygiene hypothesis citation network which is an unbiased citation network (Duyx et al., 2019)
+- network_from_data.R: generate the hygiene hypothesis citation network object from the raw data.
+- network_sim_functions.R: customized functions for network motif analysis, in particular, the function that generate the network null model for statistical testing.
+- diesel_hygiene_hypothesis_analysis.R: carry out the motif analysis on the hygiene hypothesis citation network. 
 
-**presentations**: presentation slides about the project.  
+**presentations**: presentation slides about the project.
+- Spring22_motif_analysis.pptx: presentation given in Spring 22 to report on preliminary results on motif analysis of biased and unbiased citation networks. 
 
 ## Acknowledgment and Credits
 **We tested our methods on two datasets. One dataset include a biased citation network (the hygiene hypothesis network), and the other include an unbiased network (the diesel and lung cancer network). Below are the dataset ciations**
