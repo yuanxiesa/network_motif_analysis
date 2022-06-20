@@ -17,7 +17,7 @@ This project aims to use network motifs (small but recurring patterns in network
 
 
 **presentations**: presentation slides about the project.
-- Spring22_motif_analysis.pptx: presentation given in Spring 22 to report on preliminary results on motif analysis of biased and unbiased citation networks. 
+- Spring22_motif_analysis.pptx: presentation given in Spring 22 to provide an overview of the project and report preliminary findings.
 
 
 ## Acknowledgment and Credits
