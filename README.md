@@ -1,9 +1,10 @@
 # Network Motif Analysis
 
 ## Project Description
-This project aims to use network motifs (small but recurring patterns in networks) to distinguish biased citation networks from unbiased ones. To do so, we developed an algorithm to generate the network null model for statistical testing. 
+This project aims to use network motifs (small but recurring patterns in networks) to distinguish biased citation networks from unbiased ones. 
 
 ## File Description
+
 
 ## Acknowledgment and Credits
 We tested our methods on two datasets. One dataset include a biased citation network (the hygiene hypothesis network), and the other include an unbiased network (the diesel and lung cancer network). 
@@ -17,5 +18,7 @@ We used motifr package to compute the numbers of multi-level network motifs in t
 Mario Angst and Tim Seppelt (2020). motifr: Motif Analysis in Multi-Level Networks. R package version 1.0.0. https://marioangst.github.io/motifr/
 
 ## History
+June 20, 2022: Create the repository. Initial commit. 
 
 ## Contact
+Yuanxi Fu, GitHub: @yuanxiesa
